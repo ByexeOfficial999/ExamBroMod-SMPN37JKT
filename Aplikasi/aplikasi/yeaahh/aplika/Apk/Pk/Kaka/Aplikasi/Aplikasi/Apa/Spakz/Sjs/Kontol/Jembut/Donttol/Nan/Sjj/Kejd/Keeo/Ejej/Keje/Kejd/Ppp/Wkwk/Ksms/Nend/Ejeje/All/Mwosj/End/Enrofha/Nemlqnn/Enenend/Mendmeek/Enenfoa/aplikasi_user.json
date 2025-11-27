@@ -1,9 +1,13 @@
 {
-  "users": [
-    {
-      "whoami": "u0_a301",
-      "expired_date": "2099-12-30",
-      "initial_limit": 10
+    "users": [
+        {
+            "whoami": "u0_a301",
+            "expired_date": "2099-12-30",
+            "initial_limit": 10
+        }
+    ],
+    "u0_a301": {
+        "limit": 100,
+        "expired": "2025-12-1"
     }
-  ]
 }
