@@ -3,11 +3,8 @@
         {
             "whoami": "u0_a301",
             "expired_date": "2099-12-30",
-            "initial_limit": 10
+            "initial_limit": 10,
+            "limit": 200
         }
-    ],
-    "u0_a301": {
-        "limit": 100,
-        "expired": "2025-12-1"
-    }
+    ]
 }
