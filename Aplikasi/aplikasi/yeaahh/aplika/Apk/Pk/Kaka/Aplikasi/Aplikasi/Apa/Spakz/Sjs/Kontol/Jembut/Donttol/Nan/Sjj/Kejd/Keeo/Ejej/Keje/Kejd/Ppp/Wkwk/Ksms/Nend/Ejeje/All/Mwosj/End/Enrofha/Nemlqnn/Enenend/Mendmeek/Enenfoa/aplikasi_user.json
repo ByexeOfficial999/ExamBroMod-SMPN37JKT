@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "whoami": "u0_a301",
+      "expired_date": "2099-12-30",
+      "initial_limit": 500
+    }
+  ]
 }
